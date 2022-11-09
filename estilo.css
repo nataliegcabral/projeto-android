@@ -174,8 +174,7 @@ aside > ul {
 
 footer {
     background-color: var(--cor3);
-    height: 30px;
-    
+    height: 100%;
 }
 
 footer > p {
